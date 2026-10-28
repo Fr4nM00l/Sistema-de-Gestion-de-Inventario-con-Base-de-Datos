@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|c:\\users\\franc\\desktop\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\frmvertodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmvertodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|c:\\users\\franc\\desktop\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\frmvertodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmvertodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\frmagregarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmagregarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\frmactualizarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmactualizarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\frmagregarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmagregarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\frmactualizarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmactualizarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|c:\\users\\franc\\desktop\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|c:\\users\\franc\\desktop\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\frmborrarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmborrarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|c:\\users\\franc\\desktop\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\sistema gestion de inventario con base de datos\\frmborrarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmborrarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\frmbuscarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmbuscarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\frmbuscarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\frmbuscarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\sistema gestion de inventario con base de datos\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42EBE1-4D49-4C42-BA89-B5E1A5BEB0DF}|Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos.csproj|solutionrelative:sistema gestion de inventario con base de datos\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVerTodo.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmVerTodo.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmVerTodo.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmVerTodo.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmVerTodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:26:35.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAgregarProd.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmAgregarProd.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmAgregarProd.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmAgregarProd.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmAgregarProd.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:42:02.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAgregarProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmAgregarProd.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmAgregarProd.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmAgregarProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmAgregarProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:26:15.651Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\Form1.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:35:41.585Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "productos.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\productos.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\productos.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\productos.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\productos.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwGMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:35:59.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\Form1.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Form1.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:45:23.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmActualizarProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmActualizarProd.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmActualizarProd.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmActualizarProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmActualizarProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:48:06.247Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmActualizarProd.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmActualizarProd.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmActualizarProd.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmActualizarProd.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmActualizarProd.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwG8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:55:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVerTodo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmVerTodo.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmVerTodo.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmVerTodo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmVerTodo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:53:38.121Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmBorrarProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBorrarProd.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmBorrarProd.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBorrarProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmBorrarProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:00:22.734Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBorrarProd.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBorrarProd.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmBorrarProd.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBorrarProd.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmBorrarProd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:03:33.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBuscarProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBuscarProd.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmBuscarProd.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBuscarProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBuscarProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:26:01.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmBuscarProd.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBuscarProd.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\frmBuscarProd.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\frmBuscarProd.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\frmBuscarProd.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:44:55.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "categorias.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\categorias.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\categorias.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\categorias.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\categorias.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA1wCkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:37:42.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "conexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\conexionBD.cs",
+              "RelativeDocumentMoniker": "Sistema Gestion de inventario con Base de datos\\conexionBD.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\Sistema Gestion de inventario con Base de datos\\conexionBD.cs",
+              "RelativeToolTip": "Sistema Gestion de inventario con Base de datos\\conexionBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:37:23.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
